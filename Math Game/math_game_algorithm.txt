@@ -1,4 +1,4 @@
-leen math project algorithm:
+math game project algorithm:
 
 - Generate 2 random numbers from 1 to 9 
 
