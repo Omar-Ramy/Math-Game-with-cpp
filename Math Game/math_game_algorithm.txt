@@ -1,0 +1,17 @@
+leen math project algorithm:
+
+- Generate 2 random numbers from 1 to 9 
+
+- Display them
+
+- Add plus sign between them
+
+- Add equal sign after them
+
+- Wait for user input
+
+- If user input is right answer increase correct count
+
+- If user solves problem display next and so on for five times
+
+- If user gets three problems right display Good Job! and move to next level
