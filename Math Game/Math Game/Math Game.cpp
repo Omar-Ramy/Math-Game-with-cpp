@@ -13,7 +13,7 @@ bool isNextLevel;
 
 void Level(int levelNumber, int between, char sign)
 {
-	srand(time(NULL));
+	srand((unsigned int)time(NULL));
 	int numberOne = rand() % between;
 	int numberTwo = rand() % between;
 

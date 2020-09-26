@@ -1,4 +1,6 @@
-math game project algorithm:
+(this is old and I have other things to do in this game)
+
+math game algorithm:
 
 - Generate 2 random numbers from 1 to 9 
 
